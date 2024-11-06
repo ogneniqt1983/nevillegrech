@@ -1,14 +1,16 @@
-//
-//  main.c
-//  lab_1.1
-//
-//  Created by Owner on 11/6/24.
-//
 
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("LAB 1.1 \n\n");
+    
+    int number = 10; //initializing the variable number with value 10.
+    int tot= number * 10; //initializing another integer varialbe tot and using number as right value.
+    
+    
+    
+    
+    
+    
+    
     return 0;
 }
